@@ -124,11 +124,4 @@ Ok, let’s jump on it and [fix it](https://github.com/holbertonschool/0x01-Fix_
 
 Arf, I have also the pagination to fix… I didn’t have time before my break to look at it…
 
-**Repo:**
 
-* GitHub repository: ``Fix_My_Code_Challenge``
-* Directory: ``0x01-challenge``
-* File: [react-blog](./react-blog/)
-=======
-Fix_My_Code_Challeng
->>>>>>> b3c8cb2f1785c56e73287e93656589fe9b836a0e
